@@ -1,1 +1,1 @@
-console.log("hola bryan")
+(function () { console.log("hola bryan") })()
